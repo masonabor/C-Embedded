@@ -28,5 +28,5 @@ float firstFunction(float a, float d) {
 }
 
 float secondFunction(float a) {
-    return 1 / tan((5 / 4) * M_PI + (3 / 2) * a);
+    return 1 / tan((5.0 / 4.0) * M_PI + (3.0 / 2.0) * a);
 }
