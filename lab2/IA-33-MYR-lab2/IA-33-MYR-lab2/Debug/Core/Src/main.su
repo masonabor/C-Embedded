@@ -1,0 +1,10 @@
+../Core/Src/main.c:69:5:main	16	static
+../Core/Src/main.c:133:6:SystemClock_Config	88	static
+../Core/Src/main.c:175:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:213:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:239:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:249:6:startFlash	16	static
+../Core/Src/main.c:256:6:flashAllOnce	16	static
+../Core/Src/main.c:269:6:flashParallel	24	static
+../Core/Src/main.c:290:6:flashNeighbour	24	static
+../Core/Src/main.c:317:6:Error_Handler	4	static,ignoring_inline_asm
